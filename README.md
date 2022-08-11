@@ -12,4 +12,5 @@
 
 ---
 파이썬
-- [(8-10) Class & 문자열과 텍스트 파일 데이터 다루기](https://github.com/Calcious98/TIL/blob/711890b1ae580f82afe21636bb25d5a5d44efa07/python/8-10.md)
+- [(8-10) Class & 문자열과 텍스트 파일 데이터 다루기](https://github.com/Calcious98/TIL/blob/327cf20539d247c65d1a042b2394bbb5614e332d/python/8-10.md)
+- [(8-11) Module의 모든 것](https://github.com/Calcious98/TIL/blob/327cf20539d247c65d1a042b2394bbb5614e332d/python/8-11-module.md)
