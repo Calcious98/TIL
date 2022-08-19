@@ -21,4 +21,4 @@
 
 ---
 ### SQL
-- [(8-19) DBMS, 시스템 설계, 모델링 (https://github.com/Calcious98/TIL/blob/5ded9840f4deea87a033ccb4edadd776e51989c6/SQL/8-19.md)]
+- [(8-19) DBMS, 시스템 설계, 모델링](https://github.com/Calcious98/TIL/blob/5ded9840f4deea87a033ccb4edadd776e51989c6/SQL/8-19.md)
