@@ -16,5 +16,5 @@
 - [(8-10) Class & 문자열과 텍스트 파일 데이터 다루기](https://github.com/Calcious98/TIL/blob/327cf20539d247c65d1a042b2394bbb5614e332d/python/8-10.md)
 - [(8-11) Module의 모든 것](https://github.com/Calcious98/TIL/blob/ace1365274edb838ad9861504fdd4b1b9f356ebc/python/8-11-module.md)
 - [(8-12) Numpy](https://github.com/Calcious98/TIL/blob/ace1365274edb838ad9861504fdd4b1b9f356ebc/python/8-12.md)
-- [(8-16) Pandas](https://github.com/Calcious98/TIL/blob/4d1a85c100762de4bacd750d437671e6427728b1/python/8-16.md))
+- [(8-16) Pandas](https://github.com/Calcious98/TIL/blob/4d1a85c100762de4bacd750d437671e6427728b1/python/8-16.md)
 - [(8-17,18) Matpoltlib](https://github.com/Calcious98/TIL/blob/4d1a85c100762de4bacd750d437671e6427728b1/python/8-17.md)
