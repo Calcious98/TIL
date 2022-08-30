@@ -26,3 +26,5 @@
 - [(8-19) DBMS, 시스템 설계, 모델링](https://github.com/Calcious98/TIL/blob/470143954c1d4e12b2781d74ec4370d644cf8a79/SQL/8-19.md)
 - [(8-23) SQL 기본1](https://github.com/Calcious98/TIL/blob/470143954c1d4e12b2781d74ec4370d644cf8a79/SQL/8-23.md)
 - [(8-24) SQL 기본2](https://github.com/Calcious98/TIL/blob/1b9f35f9fa377a1a7f60159bbf8d170eb9e9601b/SQL/8-24.md)
+- [(8-29) SQL table & pymysql 라이브러리](https://github.com/Calcious98/TIL/blob/932469364c243862e0329f6eb99ecf735a7c0513/SQL/8-29.md)
+- [(8-30) SQL 파이썬에 DB 생성](https://github.com/Calcious98/TIL/blob/932469364c243862e0329f6eb99ecf735a7c0513/SQL/8-30.md)
