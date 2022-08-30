@@ -28,3 +28,7 @@
 - [(8-24) SQL 기본2](https://github.com/Calcious98/TIL/blob/1b9f35f9fa377a1a7f60159bbf8d170eb9e9601b/SQL/8-24.md)
 - [(8-29) SQL table & pymysql 라이브러리](https://github.com/Calcious98/TIL/blob/932469364c243862e0329f6eb99ecf735a7c0513/SQL/8-29.md)
 - [(8-30) SQL 파이썬에 DB 생성](https://github.com/Calcious98/TIL/blob/932469364c243862e0329f6eb99ecf735a7c0513/SQL/8-30.md)
+
+---
+### 웹크롤링
+- [(8-30) 웹크롤링 개념 & HTML 페이지 기본](https://github.com/Calcious98/TIL/blob/b137bde14c36b047bbd43f882632b193e384e3ef/webCrawling/8-30.md)
