@@ -32,3 +32,4 @@
 ---
 ### 웹크롤링
 - [(8-30) 웹크롤링 개념 & HTML 페이지 기본](https://github.com/Calcious98/TIL/blob/b137bde14c36b047bbd43f882632b193e384e3ef/webCrawling/8-30.md)
+- [(8-31) HTML5 기본 태그](https://github.com/Calcious98/TIL/blob/daa2271a8831272eebffd0eaddace10dd06c090f/webCrawling/8-31.md)
