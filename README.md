@@ -35,4 +35,6 @@
 - [(8-31) HTML5 기본 태그](https://github.com/Calcious98/TIL/blob/daa2271a8831272eebffd0eaddace10dd06c090f/webCrawling/8-31.md)
 - [(8-31) CSS 선택자의 용도와 사용법](https://github.com/Calcious98/TIL/blob/69e0f57c5004a884ce9000ccb94ea84932e41661/webCrawling/8-31-2.md)
 - [(9-1) 자바스크립트 기초 문법](https://github.com/Calcious98/TIL/blob/69e0f57c5004a884ce9000ccb94ea84932e41661/webCrawling/9-1.md)
-- [(9-1,2) 크롤링과 스크레이핑](https://github.com/Calcious98/TIL/blob/69e0f57c5004a884ce9000ccb94ea84932e41661/webCrawling/9-1-2.md)
+- [(9-1,2) 크롤링과 스크레이핑 개념](https://github.com/Calcious98/TIL/blob/69e0f57c5004a884ce9000ccb94ea84932e41661/webCrawling/9-1-2.md)
+- [(9-2) 크롤링과 스크레이핑]()
+- [(9-2,5) 크롤링과 스크레이핑2]()
