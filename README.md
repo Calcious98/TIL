@@ -2,8 +2,44 @@
 - 개발자가 되는 첫걸음: github에 하루동안 학습한 내용이나 개발관련 경험들을 기록으로 남긴다
 ## 작성 규칙
 ---
-- 폴더와 파일명은 영문으로 작성한다.
 - 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다. 
+## RoadMap
+---
+1. 객체지향 프로그래밍
+   - 데이터 설계/분석
+     - 데이터 개념
+     - 파이썬 프로그래밍   
+       - 기본 문법
+       - library 
+         - Numpy
+         - Pandas
+         - Matplotlib
+     - SQL로 데이터 다루기 
+       - (r)DBMS
+       - 시스템 설계 
+       - 모델링
+       - TALBE
+       - pymysql
+2. 풀스텍 프로그래밍
+   -  데이터 수집/시각화
+      -  웹 크롤링
+         -  HTML5
+         -  CSS
+         -  자바스크립트
+         -  크롤링
+         -  스크랩핑
+         -  BeautifulSoup 
+      -  데이터 시각화 
+      -  장고 프로그램
+      -  통계
+3. 문제해결을 위한 빅데이터 구현 (DS, DE)
+   - 기계학습
+   - 지도/비지도 학습 개념과 알고리즘(DS, DE)
+   - 문제 정의와 신경기반 알고리즘 모델링(DS)
+4. 문제해결을 위한 빅데이터 활용 
+   - 공공데이터를 활용한 머신러닝 기반 예측 모델 구현 PJT (DS)
+   - 대용량 데이터 처리 플랫폼 구축 및 학습용 데이터 구축 (DE)
+
 ## 분류
 ---
 ### 특강
@@ -37,4 +73,5 @@
 - [(9-1) 자바스크립트 기초 문법](https://github.com/Calcious98/TIL/blob/69e0f57c5004a884ce9000ccb94ea84932e41661/webCrawling/9-1.md)
 - [(9-1,2) 크롤링과 스크레이핑 개념](https://github.com/Calcious98/TIL/blob/749a7657b783349a2505416a378781f64fdb386d/webCrawling/9-1-2.md)
 - [(9-2) 크롤링과 스크레이핑](https://github.com/Calcious98/TIL/blob/35f8aafa796ee83da5bd54da791da039ad083204/webCrawling/9-2.md)
-- [(9-5) BeautifulSoup을 이용한 분석 추출](https://github.com/Calcious98/TIL/blob/5a82f1628bde28a92f92c46d45c1f73b7797532d/webCrawling/9-5.md)
+- [(9-5) BeautifulSoup을 이용한 분석 추출](https://github.com/Calcious98/TIL/blob/d53dac83e35fd31f34d29d8d013c07e59c8fdc6d/webCrawling/9-5.md)
+- [(9-6) 웹크롤링 실습과 실사례 적용](https://github.com/Calcious98/TIL/blob/d53dac83e35fd31f34d29d8d013c07e59c8fdc6d/webCrawling/9-6.md)
