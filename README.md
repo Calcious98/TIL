@@ -77,3 +77,4 @@
 - [(9-6) 웹크롤링 실습과 실사례 적용](https://github.com/Calcious98/TIL/blob/a3d4348c2a0ebd022cb9d1fd6739bb2a68a0c5a8/webCrawling/9-6.md)
 - [(9-7) 사이트 크롤링 실습](https://github.com/Calcious98/TIL/blob/a3d4348c2a0ebd022cb9d1fd6739bb2a68a0c5a8/webCrawling/9-7.md)
 - [(9-7) Selenium & Chrome Driver](https://github.com/Calcious98/TIL/blob/a3d4348c2a0ebd022cb9d1fd6739bb2a68a0c5a8/webCrawling/9-7-2.md)
+- [(9-8) 각 음악차트 top 100 곡정보 가져오기]()
