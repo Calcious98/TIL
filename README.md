@@ -83,4 +83,5 @@
 ### 웹 프로그래밍
 
 - [(9-8) 웹프로그램 개념 & 다양한 웹 클라언트 & 라이브러리](https://github.com/Calcious98/TIL/blob/d52ccd591b04f7d7dba8b14aa75cf7f01e3f85b2/webPrograming/9-8.md)
-- [(9-13) Django 웹 프레임워크](https://github.com/Calcious98/TIL/blob/173665ea41b79d9e91db7bf4313450a291eeb749/webPrograming/9-13.md)
+- [(9-13) Django 웹 프레임워크: 프로젝트 뼈대 만들기](https://github.com/Calcious98/TIL/blob/419a96c68f99a41e6a0a907dc87ef9583084fc4b/webPrograming/9-13.md)
+- [(9-14) Django 웹 프레임워크: 애플리케이션(model, view, template)](https://github.com/Calcious98/TIL/blob/419a96c68f99a41e6a0a907dc87ef9583084fc4b/webPrograming/9-14.md)
