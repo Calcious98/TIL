@@ -93,7 +93,7 @@
 ### Data Analytics
 #### Python 
 - [(9-22) Python 정의 & 정리]()
-- [(9-22) Data_Type_and_Operations](https://github.com/Calcious98/TIL/blob/07212c335a1f0628c1afda2c05e7519a682f903c/%5B003%5D_Data_Type_and_Operations_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
+- [(9-22) Data_Type_and_Operations_Colab](https://github.com/Calcious98/TIL/blob/07212c335a1f0628c1afda2c05e7519a682f903c/%5B003%5D_Data_Type_and_Operations_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 #### Data
 
 #### Visualization
