@@ -32,13 +32,29 @@
       -  데이터 시각화 
       -  장고 프로그램
       -  통계
-3. 문제해결을 위한 빅데이터 구현 (DS, DE)
+
+3. Data Analytics
+   - Data Analytics
+   - Anaconda Install and Configuration(Google Colab)
+   - Data Type and Operation
+   - Data Structure
+   - Control Statement
+   - Function and Module
+   - Class and Package
+   - NumPy
+   - pandas(Data Prepocessing)
+   - Matplotlib
+   - seaborn 
+4. Machine Learning
+5. Deep Learning
+
+<!-- 3. 문제해결을 위한 빅데이터 구현 (DS, DE)
    - 기계학습
    - 지도/비지도 학습 개념과 알고리즘(DS, DE)
    - 문제 정의와 신경기반 알고리즘 모델링(DS)
 4. 문제해결을 위한 빅데이터 활용 
    - 공공데이터를 활용한 머신러닝 기반 예측 모델 구현 PJT (DS)
-   - 대용량 데이터 처리 플랫폼 구축 및 학습용 데이터 구축 (DE)
+   - 대용량 데이터 처리 플랫폼 구축 및 학습용 데이터 구축 (DE) -->
 
 ## 분류
 ---
@@ -103,6 +119,8 @@
 #### Python Library
 - [(9-27) NumPy_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B008%5D_NumPy.ipynb)
 - [(9-27) pandas_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B009%5D_pandas.ipynb)
+- [(9-27) matplotlib_Colab](https://github.com/Calcious98/TIL/blob/7d552f43fd05bde09ea7595f0f4d67c3e1de525d/Data_Analytics/%5B010%5D_matplotlib.ipynb)
+- [(9-27) seaborn_Colab](https://github.com/Calcious98/TIL/blob/7d552f43fd05bde09ea7595f0f4d67c3e1de525d/Data_Analytics/%5B011%5D_seaborn.ipynb)
 #### Visualization
 - [(9-27) notExercise_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/001_notExercise.ipynb)
 - [(9-27) SeoulCCTV_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/002_Seoul_CCTV.ipynb)
