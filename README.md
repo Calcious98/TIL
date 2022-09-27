@@ -98,10 +98,15 @@
 - [(9-22) Data_Type_and_Operations_Colab](https://github.com/Calcious98/TIL/blob/117c015e7fb22c2b3eba8b6c37867ed29fe99a35/Data_Science/%5B003%5D_Data_Type_and_Operations_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 - [(9-22) Data_Structure_Colab](https://github.com/Calcious98/TIL/blob/117c015e7fb22c2b3eba8b6c37867ed29fe99a35/Data_Science/%5B004%5D_Data_Structure.ipynb)
 - [(9-22) Control_Statement_Colab](https://github.com/Calcious98/TIL/blob/117c015e7fb22c2b3eba8b6c37867ed29fe99a35/Data_Science/%5B005%5D_Control_Statement.ipynb)
-#### Data
-
+- [(9-26) Function_and_Module_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B006%5D_Function_and_Module.ipynb)
+- [(9-26) Class_and_Package_Coolab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B007%5D_Class_and_Package.ipynb)
+#### Python Library
+- [(9-27) NumPy_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B008%5D_NumPy.ipynb)
+- [(9-27) pandas_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B009%5D_pandas.ipynb)
 #### Visualization
-
+- [(9-27) ]()
+- [(9-27)]()
+- [(9-27)]()
 ---
 ### Machine Learning
 
