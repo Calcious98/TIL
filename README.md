@@ -104,9 +104,9 @@
 - [(9-27) NumPy_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B008%5D_NumPy.ipynb)
 - [(9-27) pandas_Colab](https://github.com/Calcious98/TIL/blob/2aa87333bf299a795a3b97e691387e79bee287d5/Data_Analytics/%5B009%5D_pandas.ipynb)
 #### Visualization
-- [(9-27) ]()
-- [(9-27)]()
-- [(9-27)]()
+- [(9-27) notExercise_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/001_notExercise.ipynb)
+- [(9-27) SeoulCCTV_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/002_Seoul_CCTV.ipynb)
+- [(9-27) SeoulExpanse_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/003_Seoul_Expense.ipynb)
 ---
 ### Machine Learning
 
