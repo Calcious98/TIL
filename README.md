@@ -125,8 +125,14 @@
 - [(9-27) notExercise_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/001_notExercise.ipynb)
 - [(9-27) SeoulCCTV_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/002_Seoul_CCTV.ipynb)
 - [(9-27) SeoulExpanse_Colab](https://github.com/Calcious98/TIL/blob/157a24fbcb6248d9a8f08694e23be915bf9d738b/Data_Analytics/003_Seoul_Expense.ipynb)
+- [(9-28) Machine Learning & Model Validation]()
 ---
 ### Machine Learning
 
 ---
 ### Deep Learning
+
+
+
+``` git
+chmod a+rw .git/FETCH_HEAD 
