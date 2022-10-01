@@ -72,7 +72,7 @@
 - [깃허브 특강2](https://github.com/Calcious98/TIL/blob/89af6094c7210d8a68a2297bd2f13a13a185f331/git/8-9.md)
 - [UX/UI 특강](https://github.com/Calcious98/TIL/blob/83171221fa97903f0c26998bb8c60e1e8cd4a2d9/%ED%8A%B9%EA%B0%95/UI-UX.md)
 - [알고리즘 특강1](https://github.com/Calcious98/TIL/blob/7352e6838673b3a79fd7b2d2ecacc1c10cac1e0f/%ED%8A%B9%EA%B0%95/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- [알고리즘 특강2](https://github.com/Calcious98/TIL/blob/7352e6838673b3a79fd7b2d2ecacc1c10cac1e0f/%ED%8A%B9%EA%B0%95/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982)
+- [알고리즘 특강2](https://github.com/Calcious98/TIL/blob/420ea26cebe48e6c1c63b34751bb492dc2eb0c12/%ED%8A%B9%EA%B0%95/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982.md)
 
 ---
 ### 파이썬
