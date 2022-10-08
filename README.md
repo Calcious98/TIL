@@ -137,6 +137,7 @@
 
 ---
 ### Machine Learning
+#### Linear Regression
 - [(9-28) Machine Learning & Model Validation](https://github.com/Calcious98/TIL/blob/5e7e5b8e0e4783bf9eee01903d10aa39c0eab99f/Machine_Learning/9-28.md)
 - [(9-28) Gradient_Descent_Colab](https://github.com/Calcious98/TIL/blob/5e7e5b8e0e4783bf9eee01903d10aa39c0eab99f/Machine_Learning/Gradient_Descent.ipynb)
 - [(9-29) Validation Approach & Multivariate Regression & Encoding](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/9-29.md)
@@ -144,11 +145,18 @@
 - [(9-29) Regression_Analysis_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/3.Regression_Analysis/001_Regression_Analysis.ipynb)
 - [(9-29) Encoding_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/3.Regression_Analysis/002_Encoding.ipynb)
 - [(9-29) Multivariate_Regression_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/3.Regression_Analysis/003_Multivariate_Regression.ipynb)
+
+#### Logistic Regression
 - [(9-30) Logistic Regression](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/9-30.md)
 - [(9-30) Scaling_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/3.Regression_Analysis/004_Scaling.ipynb)
 - [(9-30) Sigmoid_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/4.Logistic_Regression/001_Sigmoid.ipynb)
 - [(9-30) Binary_Classification_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/4.Logistic_Regression/002_Binary_Classification.ipynb)
 - [(9-30) Cross_Entropy_Error_Colab](https://github.com/Calcious98/TIL/blob/06e83fceff959363747dac37d52f7d67f23414f9/Machine_Learning/4.Logistic_Regression/003_Cross_Entropy_Error.ipynb)
+
+#### Decision Tree & Random Forest
+- [(10-4) Decision Tree & Random Forest](https://github.com/Calcious98/TIL/blob/d199511ab70bc156b198d971fbfcfe98761824b7/Machine_Learning/10-4.md)
+- [(10-4) Decision_Tree_Colab](https://colab.research.google.com/drive/1bJCcFON5LMq5QIulip0JtM1KZaFFskhC?usp=sharing)
+
 ---
 ### Deep Learning
 
